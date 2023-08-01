@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/BLACK-MAMBA-MAFIA">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/BLACK-MAMBA-MAFIA?label=Followers&style=for-the-badge" />
   </a>
   <!-- Add more badges here if you like -->
 </div>
