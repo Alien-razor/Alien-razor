@@ -1,10 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/141011251?v=4" alt="Your Name" width="200" />
 </div>
-<style>
-  img{
-    radius: 50%;
-</style>
+
 
 <h1 align="center">𝙱𝙻𝙰𝙲𝙺 𝙼𝙰𝙼𝙱𝙰 𝙼𝙰𝙵𝙸𝙰</h1>
 
