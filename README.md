@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="path/to/your/profile-picture.png" alt="Your Name" width="200" />
+  <img src"https://avatars.githubusercontent.com/u/141011251?v=4" alt="Your Name" width="200" />
 </div>
 
 <h1 align="center">BLACK-MAMBA-MAFIA</h1>
