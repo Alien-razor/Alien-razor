@@ -1,15 +1,19 @@
 <div align="center">
-  <img src"https://avatars.githubusercontent.com/u/141011251?v=4" alt="Your Name" width="200" />
+  <img src="https://avatars.githubusercontent.com/u/141011251?v=4" alt="Your Name" width="200" />
 </div>
+<style>
+  img{
+    radius: 50%;
+</style>
 
-<h1 align="center">BLACK-MAMBA-MAFIA</h1>
+<h1 align="center">𝙱𝙻𝙰𝙲𝙺 𝙼𝙰𝙼𝙱𝙰 𝙼𝙰𝙵𝙸𝙰</h1>
 
 <p align="center">
   [Optional tagline or introduction]
 </p>
 
 <div align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/BLACK-MAMBA-MAFIA">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge" />
   </a>
   <!-- Add more badges here if you like -->
