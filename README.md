@@ -2,7 +2,7 @@
   <img src="path/to/your/profile-picture.png" alt="Your Name" width="200" />
 </div>
 
-<h1 align="center">Alien-razor</h1>
+<h1 align="center">BLACK-MAMBA-MAFIA</h1>
 
 <p align="center">
   [Optional tagline or introduction]
